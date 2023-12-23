@@ -25,8 +25,8 @@ https://github.com/notancillary/vrc-owo-suit-frequency<br>
 Revo's c# version should work too, but i have not tested it yet.. here: <br>
 https://github.com/RevoForge/cSharp-OWO-OSC/tree/main<br>
 
-
-(included) Dependencies: 
-https://github.com/sophia1000/Sophias-item-and-weapon-pickup-systems-for-vrchat
-https://github.com/VRLabs/Final-IK-Stub
-https://github.com/VRLabs/Avatars-3.0-Manager
+<br><br><br>
+(included) Dependencies: <br>
+https://github.com/sophia1000/Sophias-item-and-weapon-pickup-systems-for-vrchat<br>
+https://github.com/VRLabs/Final-IK-Stub<br>
+https://github.com/VRLabs/Avatars-3.0-Manager<br>
