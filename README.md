@@ -8,10 +8,10 @@ Owo Panel VRC
 
 How to use it:
 
-Spawn from your radial menu.
-Grab the bottom right corner to position it. - remote users can do this too!
-Touch the graph to set an intensity/frequency. - remote users can do this too!
-Touch the button on the bottom left to shock. - remote users can do this too!
+1. Spawn from your radial menu.
+2. Grab the bottom right corner to position it. - remote users can do this too!
+3. Touch the graph to set an intensity/frequency. - remote users can do this too!
+4. Touch the button on the bottom left to shock. - remote users can do this too!
 
 
 
@@ -19,8 +19,11 @@ https://github.com/notancillary/Owo-Panel-VRC/assets/50598087/aef7944f-7639-4e48
 
 
 
-
-
+Note:<br>
+You will need to use the frequency branch of 0.0.7.. here: <br>
+https://github.com/notancillary/vrc-owo-suit-frequency<br>
+Revo's c# version should work too, but i have not tested it yet.. here: <br>
+https://github.com/RevoForge/cSharp-OWO-OSC/tree/main<br>
 
 
 (included) Dependencies: 
