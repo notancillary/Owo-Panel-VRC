@@ -30,3 +30,8 @@ https://github.com/RevoForge/cSharp-OWO-OSC/tree/main<br>
 https://github.com/sophia1000/Sophias-item-and-weapon-pickup-systems-for-vrchat<br>
 https://github.com/VRLabs/Final-IK-Stub<br>
 https://github.com/VRLabs/Avatars-3.0-Manager<br>
+
+
+<br>
+CC BY-NC-SA 3.0<br>
+Attribution-NonCommercial-ShareAlike 3.0 Unported <br>
